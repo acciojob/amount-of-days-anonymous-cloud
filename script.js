@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let daysOfAYear(days){
+let daysOfAYear(year){
 
 	
 
